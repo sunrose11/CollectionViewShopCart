@@ -5,5 +5,5 @@
 规格上面的是一个固定的view，规格下面第一个粉框框是collectionView，根据文字大小实现动态显示，一个数量的英文框UICollectionReusableView可以设为footer
 来先下分析如何的英文实现动态电子杂志string长度
 
- 
+详细请看简书：https://www.jianshu.com/p/c5a25c0bd9e6
  
