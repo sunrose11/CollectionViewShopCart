@@ -2,7 +2,8 @@
 ![你的小可爱已上线](http://upload-images.jianshu.io/upload_images/7882691-886183f3a8e30c93.GIF?imageMogr2/auto-orient/strip)
 >淘宝点击商品可以进行商品的选择比如大小之类的，这类可以选择用collectionView来写，下面我讲述一下我的项目中所用的界面做一个简单的分析和实现想法，如果有更好的想法可以分享给我。
 
-![效果图.png](https://upload-images.jianshu.io/upload_images/7882691-880d011f36322aa5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![效果.gif](https://upload-images.jianshu.io/upload_images/7882691-89dce255bfd0ec00.gif?imageMogr2/auto-orient/strip)
+
 规格上面的是一个固定的`view`，规格下面第一个粉框框是`collectionView`，根据文字大小实现动态显示，数量一个框是`UICollectionReusableView`可以设为`footer`
 >先来分析下如何是实现动态获取`string`长度
 ```
